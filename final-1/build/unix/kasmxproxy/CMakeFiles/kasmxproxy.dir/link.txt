@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -Wall -Wformat=2 -O3 -DNDEBUG -UNDEBUG -rdynamic CMakeFiles/kasmxproxy.dir/xxhash.c.o CMakeFiles/kasmxproxy.dir/kasmxproxy.c.o -o kasmxproxy  -lX11 -lXext -lXtst -lXrandr -lXcursor -lXfixes 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libos.a CMakeFiles/os.dir/Mutex.cxx.o CMakeFiles/os.dir/Thread.cxx.o CMakeFiles/os.dir/w32tiger.c.o CMakeFiles/os.dir/os.cxx.o
+/usr/bin/ranlib libos.a

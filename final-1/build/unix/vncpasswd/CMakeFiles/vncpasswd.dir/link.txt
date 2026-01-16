@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wformat=2 -O3 -DNDEBUG -UNDEBUG -rdynamic CMakeFiles/vncpasswd.dir/vncpasswd.cxx.o -o vncpasswd  ../tx/libtx.a ../../common/rfb/librfb.a ../../common/os/libos.a -lX11 -lXext -ljpeg -lpng ../../common/rdr/librdr.a ../../common/os/libos.a -lpthread -lz ../../common/Xregion/libXregion.a -lpam -lgnutls -ltbb -lcpuid 

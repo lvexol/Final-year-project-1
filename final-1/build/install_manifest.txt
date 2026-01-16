@@ -1,0 +1,11 @@
+/home/vexo/project/Final-year-project-1/final-1/_install/bin/vncserver
+/home/vexo/project/Final-year-project-1/final-1/_install/share/man/man1/vncserver.1
+/home/vexo/project/Final-year-project-1/final-1/_install/share/vexovnc/vexovnc_defaults.yaml
+/home/vexo/project/Final-year-project-1/final-1/_install/share/vexovnc/vexovnc.yaml
+/home/vexo/project/Final-year-project-1/final-1/_install/bin/vncconfig
+/home/vexo/project/Final-year-project-1/final-1/_install/share/man/man1/vncconfig.1
+/home/vexo/project/Final-year-project-1/final-1/_install/bin/vncpasswd
+/home/vexo/project/Final-year-project-1/final-1/_install/share/man/man1/vncpasswd.1
+/home/vexo/project/Final-year-project-1/final-1/_install/bin/vexovncpasswd
+/home/vexo/project/Final-year-project-1/final-1/_install/bin/kasmxproxy
+/home/vexo/project/Final-year-project-1/final-1/_install/share/man/man1/kasmxproxy.1

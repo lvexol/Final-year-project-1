@@ -1,0 +1,2 @@
+/usr/bin/ar qc libunixcommon.a CMakeFiles/unixcommon.dir/randr.cxx.o
+/usr/bin/ranlib libunixcommon.a

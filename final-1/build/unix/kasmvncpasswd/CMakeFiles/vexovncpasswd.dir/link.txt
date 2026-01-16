@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -Wall -Wformat=2 -O3 -DNDEBUG -UNDEBUG -rdynamic CMakeFiles/vexovncpasswd.dir/kasmvncpasswd.c.o CMakeFiles/vexovncpasswd.dir/kasmpasswd.c.o -o vexovncpasswd  -lcrypt 
